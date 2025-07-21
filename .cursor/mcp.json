@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+      "demo": {
+        "command": "uv",
+        "args": ["run", "mcp", "dev", "server.py"],
+        "cwd": "/Users/likhithbavisetti/Desktop/xyz/mcp/mcp-server-demo"
+      }
+    }
+  }
+  
