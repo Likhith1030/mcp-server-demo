@@ -1,2 +1,2 @@
-# Claude integration into your shell with mcp.
+### Claude integration into shell with mcp.
 
